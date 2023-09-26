@@ -3,6 +3,9 @@ interface BaseRoll {
   roll: string
 }
 
+export interface AnomalyEvent extends BaseRoll {}
+export interface Arrival extends BaseRoll {}
+
 export interface Background extends BaseRoll {
   description: string
   options: string
@@ -13,6 +16,8 @@ export interface CombatEvent extends BaseRoll {}
 export interface CombatStance extends BaseRoll {
   modifiers: string[]
 }
+
+export interface CrewTravelEvent extends BaseRoll {}
 
 export interface CriticalInjury extends BaseRoll {
   effect: string
@@ -56,6 +61,15 @@ export interface LoseStress {
   result: string
 }
 
+export interface MalfunctionEvent extends BaseRoll {}
+
+export interface Misjump {
+  Misjump: BaseRoll[]
+  'Time Dilation': BaseRoll[]
+  'Transit Dilation': BaseRoll[]
+  'Secondary Misjump Effects': BaseRoll[]
+}
+
 export interface NegativeTrait extends BaseRoll {
   description: string
 }
@@ -89,6 +103,14 @@ export interface RadiationExposure {
   Cumulative: Radiation[]
 }
 
+export interface SitePurpose extends BaseRoll {
+  description: string
+}
+
+export type SiteTime = string[]
+
+export interface SocialEvent extends BaseRoll {}
+
 export interface SpaceshipAdjective extends BaseRoll {}
 
 export interface SpaceshipName extends BaseRoll {}
@@ -120,3 +142,5 @@ export interface Trauma {
   roll: string
   effect: string
 }
+
+export interface TravelEvent extends BaseRoll {}

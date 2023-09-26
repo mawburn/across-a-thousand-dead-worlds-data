@@ -1,0 +1,18 @@
+[
+  {
+    "roll": "1",
+    "name": "Social"
+  },
+  {
+    "roll": "2",
+    "name": "Ship Malfunction"
+  },
+  {
+    "roll": "3",
+    "name": "Space Anomaly"
+  },
+  {
+    "roll": "4",
+    "name": "Mental or Physical Issue"
+  }
+]

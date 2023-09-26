@@ -1,0 +1,70 @@
+{
+  "Misjump": [
+    {
+      "roll": "1-2",
+      "name": "A loud boom, systems reboot but nothing else happens"
+    },
+    {
+      "roll": "3-4",
+      "name": "Time Dilation"
+    },
+    {
+      "roll": "5-6",
+      "name": "Transit Dilation"
+    }
+  ],
+  "Time Dilation": [
+    {
+      "roll": "1-2",
+      "name": "D10 hours difference"
+    },
+    {
+      "roll": "3-4",
+      "name": "D10 weeks difference"
+    },
+    {
+      "roll": "5-6",
+      "name": "D10 months difference"
+    }
+  ],
+  "Transit Dilation": [
+    {
+      "roll": "1-2",
+      "name": "Instantaneous"
+    },
+    {
+      "roll": "3-4",
+      "name": "D4 weeks shorter"
+    },
+    {
+      "roll": "5-6",
+      "name": "D4 weeks longer"
+    }
+  ],
+  "Secondary Misjump Effects": [
+    {
+      "roll": "1",
+      "name": "D6 randomly determined personal batteries are depleted"
+    },
+    {
+      "roll": "2",
+      "name": "Drinking water is gone—halve remaining supplies"
+    },
+    {
+      "roll": "3",
+      "name": "All crew members suffer a terrible headache and gain +5 Stress"
+    },
+    {
+      "roll": "4",
+      "name": "The crew has problems remembering random details about their past"
+    },
+    {
+      "roll": "5",
+      "name": "All onboard data has been wiped"
+    },
+    {
+      "roll": "6",
+      "name": "Each crew member receives a Negative Trait"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+[
+  {
+    "roll": "1",
+    "name": "An unknown radiation knocks the ship from warp space. The system reboot takes a whole week without progress, during which the helpless crew earns 5 Stress per day."
+  },
+  {
+    "roll": "2",
+    "name": "An unusually large micro-asteroid strikes the ship during route recalibration. The ship suffers no damage, but the crew members are sent tumbling. Each receives 1 Wound."
+  },
+  {
+    "roll": "3",
+    "name": "The warp shield fails in warp space, resulting in a temporal anomaly. When (if) the crew returns to Karum Station, months have passed—the crew was declared lost."
+  },
+  {
+    "roll": "4",
+    "name": "Tapping noises from outside the ship, voices when no one’s there, shadows and shapes are seen in the corner of the eye. This continues for D10 days, inflicting 5 Stress per day."
+  },
+  {
+    "roll": "5",
+    "name": "The ship exits warp space within a gas nebula. The crew can hear corrosive gasses slowly eating away the ship’s hull. All crew members gain D10 Stress."
+  },
+  {
+    "roll": "6",
+    "name": "An electromagnetic disturbance fries the ship’s survey equipment. This can only be fixed with a successful Hard Technology check."
+  },
+  {
+    "roll": "7",
+    "name": "Some external force causes the ship to exit warp space. As the ship re-enters, a mis-jump takes place."
+  },
+  {
+    "roll": "8",
+    "name": "Recalibration takes unusually long (D6 hours). If the crew uses the external visors, they see they are in the shadow of a colossal ship. It slowly scans them before moving away and disappearing into the black. Moments later, the PC’s ship re-enters warp space."
+  },
+  {
+    "roll": "9",
+    "name": "The ship shakes during warp travel. All crew members must pass a DEX check to strap themselves in time, or suffer 1 Wound due to the violence of the event."
+  },
+  {
+    "roll": "10",
+    "name": "With a loud groan, the ship drops out of warp space as if it had been pulled. The ship’s lights flicker within the silence of space. If the crew uses the external visors they appear to see Karum Station, but it clearly can’t be. Àrsaidh ships fly in and out of the asteroid until, moments later, the crew’s ship activates its warp drive and continues its journey."
+  }
+]

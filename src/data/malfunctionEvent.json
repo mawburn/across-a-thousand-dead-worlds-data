@@ -1,0 +1,42 @@
+[
+  {
+    "roll": "1",
+    "name": "The cabin begins to depressurize—intentional sabotage? Each crew member may attempt one Hard Technology check to fix it, but if all fail they must don vacc suits or pass a CON check to avoid passing out. After 1 hour, any characters without a vacc suit die."
+  },
+  {
+    "roll": "2",
+    "name": "The cargo shifts during a grav compensator malfunction. Pass a Normal STR check to place them back by force, before they become a serious problem."
+  },
+  {
+    "roll": "3",
+    "name": "Sensors are producing false readings—they say you exited warpspace. Are the sensors correct? If so, what happened?"
+  },
+  {
+    "roll": "4",
+    "name": "A cargo container explodes, causing a chemical fire which destroys D6 Supplies."
+  },
+  {
+    "roll": "5",
+    "name": "General power failure. Crew is forced to wear their Site breathing gear and consume Oxygen Pellets. Each Technology check to fix the problem consumes 1xOxygen Pellet per crew member."
+  },
+  {
+    "roll": "6",
+    "name": "An issue with the air recycler causes D4 oxygen tanks to be consumed before the crew realizes it and fixes the problem."
+  },
+  {
+    "roll": "7",
+    "name": "The battery array is leaking radiation. All crew members receive D100 rads before they realize and fix it."
+  },
+  {
+    "roll": "8",
+    "name": "A malfunction with the rudimentary onboard kitchen irremediably ruins D4 Supplies."
+  },
+  {
+    "roll": "9",
+    "name": "The lavatory malfunctions, causing an unpleasant mess. All crew members gain D10 Stress."
+  },
+  {
+    "roll": "10",
+    "name": "Life support’s temperature regulator stops working. Temperature drops steadily 1 ºF each minute, until it's repaired."
+  }
+]

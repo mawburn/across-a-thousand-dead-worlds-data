@@ -1,0 +1,102 @@
+[
+  {
+    "roll": "1",
+    "name": "Prison",
+    "description": "An unfortunate necessity in any society, or perhaps a place to contain external threats."
+  },
+  {
+    "roll": "2",
+    "name": "Refinery",
+    "description": "A place for refining the Àrsaidh’s many materials and sources of energy."
+  },
+  {
+    "roll": "3",
+    "name": "Bio Research and Containment",
+    "description": "A place to study, evaluate and even contain the many lifeforms the Àrsaidh came across."
+  },
+  {
+    "roll": "4",
+    "name": "Temple",
+    "description": "Whether or not the Àrsaidh were religious, some of their facilities offer no purpose other than a space for spiritual enlightenment and contemplation."
+  },
+  {
+    "roll": "5",
+    "name": "Data Storage",
+    "description": "Facilities necessary among any sufficiently advanced society, in which all their information and knowledge is stored."
+  },
+  {
+    "roll": "6",
+    "name": "Military",
+    "description": "The Àrsaidh were as familiar with war as humanity, judging by their many weapon-looking devices. Unfortunately (or fortunately, depending on who you ask), the KSA’s scientists have been unable to figure out how any of them work."
+  },
+  {
+    "roll": "7",
+    "name": "Aesthetic",
+    "description": "A Site built purely for enjoyment, be it an architectural wonder, or impressive garden. These Sites are often close to spectacular views such as nebulae or gorgeous planetary landscapes."
+  },
+  {
+    "roll": "8",
+    "name": "Communications",
+    "description": "A sort of relay center, usually full of data storage and interesting technology."
+  },
+  {
+    "roll": "9",
+    "name": "Residential",
+    "description": "Small colonies or stations, ranging from a few hundred homes to incredibly complex mega-cities."
+  },
+  {
+    "roll": "10",
+    "name": "Teaching",
+    "description": "A center of knowledge and study designed to facilitate access to databases and the imparting of said knowledge to large groups of students."
+  },
+  {
+    "roll": "11",
+    "name": "Spaceport",
+    "description": "A key part of any interplanetary travel network. Unfortunately, the few spaceports that have been found had no ships whatsoever."
+  },
+  {
+    "roll": "12",
+    "name": "Watchpost",
+    "description": "The Àrsaidh seem to have identified many threats, most of them hopefully long gone. Most watchposts offer little explanation of their placement, while others may have been built to keep tabs on dangerous astronomical or planetary phenomena."
+  },
+  {
+    "roll": "13",
+    "name": "Vault",
+    "description": "A Site built to protect something of value (at least to the Àrsaidh)."
+  },
+  {
+    "roll": "14",
+    "name": "Medical Research and Care",
+    "description": "These Sites are of great interest to xeno-biologists, who hope to learn more about Àrsaidh physiology."
+  },
+  {
+    "roll": "15",
+    "name": "Refuge",
+    "description": "Judging by their construction and the weapon systems within, these Sites were built to protect occupants from some kind of external threat."
+  },
+  {
+    "roll": "16",
+    "name": "Power Center",
+    "description": "This can be anything from an energy production facility to a fuel relay station."
+  },
+  {
+    "roll": "17",
+    "name": "Governmental",
+    "description": "A place built to house government officials in charge of a planet or sector. Or at least that is the current theory, as nothing is known about the structure of Àrsaidh society."
+  },
+  {
+    "roll": "18",
+    "name": "Entertainment",
+    "description": "A place to relax and be distracted, usually among soothing shapes, bathing areas and entertainment technology."
+  },
+  {
+    "roll": "19",
+    "name": "Tomb",
+    "description": "A place to remember the fallen. These facilities range from singular monolithic tombs to large cemeteries and memory halls. Despite the name, no Àrsaidh corpses have ever been recovered—these places are always empty."
+  },
+  {
+    "roll": "20",
+    "name": "Industrial Production",
+    "description": "A Site for producing Àrsaidh goods and technologies. They range from small-scale labs to cavernous halls full of strange machinery."
+  }
+]

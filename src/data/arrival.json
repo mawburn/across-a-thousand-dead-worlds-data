@@ -1,0 +1,26 @@
+[
+  {
+    "roll": "1-2",
+    "name": "The ship exits its final jump within a star that has recently expanded into a Red Giant. The ship, and all those within, are destroyed."
+  },
+  {
+    "roll": "3-15",
+    "name": "The ship exits warp space revealing nothing but debris and dust. Perhaps there was once something here worth visiting, but now it is forever lost to the void."
+  },
+  {
+    "roll": "16-35",
+    "name": "The Site is a large derelict ship! The ship automatically docks in it."
+  },
+  {
+    "roll": "36-60",
+    "name": "The crew’s ship touches down on a planet."
+  },
+  {
+    "roll": "61-80",
+    "name": "This Site is a station orbiting a planet or moon."
+  },
+  {
+    "roll": "81-100",
+    "name": "The ship docks in an Àrsaidh base inside an asteroid or planetoid."
+  }
+]

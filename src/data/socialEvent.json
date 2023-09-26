@@ -1,0 +1,26 @@
+[
+  {
+    "roll": "1-5",
+    "name": "Two crew members start a conversation. Use the Random Conversation rules."
+  },
+  {
+    "roll": "6",
+    "name": "Two crew members have an incident (roll a Conversation Topic or Action & Theme, or infer the context from their history). If they were bonded, their bond is now broken."
+  },
+  {
+    "roll": "7",
+    "name": "One crew member becomes sullen and uncommunicative (-2 to all their actions for the next week)."
+  },
+  {
+    "roll": "8",
+    "name": "Two crew members bond, gaining +1 to actions involving each other."
+  },
+  {
+    "roll": "9",
+    "name": "One crew member is celebrating a birthday, religious event or something else. It improves morale and everybody loses 5 Stress."
+  },
+  {
+    "roll": "10",
+    "name": "The crew conducts a routine training exercise covering depressurization, fire and injury. All crew members receive +1 to their next skill check."
+  }
+]

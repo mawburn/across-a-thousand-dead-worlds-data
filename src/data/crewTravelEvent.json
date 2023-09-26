@@ -1,0 +1,42 @@
+[
+  {
+    "roll": "1",
+    "name": "A tool falls from its maintenance shelf, injuring a random crew member for 1 Wound."
+  },
+  {
+    "roll": "2",
+    "name": "The spaceship attempts to interface with a random crew member. For D6 long days they suffer visions of their destination, intrusive thoughts not meant for human minds, voices speaking a language never heard by anyone alive. They suffer D10 Stress each day because of it."
+  },
+  {
+    "roll": "3",
+    "name": "The ship attempts to interface with a crew member, resulting in a misjump."
+  },
+  {
+    "roll": "4",
+    "name": "Each day of the week a different crew member experiences visions of a loved one. They are extremely vivid, but never interact with the crew and only appear when nobody else can see them."
+  },
+  {
+    "roll": "5",
+    "name": "A random crew member falls ill, suffering high fever and difficulty breathing. A successful Medical Aid check must be made each day for the next D10 days (failure increases the sickness duration by one day). If the character is not healed before the ship arrives, they suffer -5 to all rolls this mission."
+  },
+  {
+    "roll": "6",
+    "name": "A random crew member suffers a sudden anxiety attack, regardless of their Stress levels. Roll on the Stress Reaction table."
+  },
+  {
+    "roll": "7",
+    "name": "A random crew member swears they saw another crew member hiding some alcohol on board. It really looks like it’s all in their head, though."
+  },
+  {
+    "roll": "8",
+    "name": "A random crew member is coping poorly. They must pass a Resolve check or gain D10 Stress."
+  },
+  {
+    "roll": "9",
+    "name": "A random crew member has extremely vivid, prophetic dreams. Next time they enter combat, they remember a dream, allowing them to surprise their opponents."
+  },
+  {
+    "roll": "10",
+    "name": "A random crew member suddenly enters a catatonic state, only to wake up a day later as if nothing happened. They lose all Stress and Trauma."
+  }
+]
