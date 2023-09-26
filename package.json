@@ -1,0 +1,24 @@
+{
+  "name": "across-a-thousand-dead-worlds-data",
+  "version": "0.0.1",
+  "description": "Data for the TTRPG Across a Thousand Dead Worlds",
+  "main": "src/index.ts",
+  "author": "Matt Burnett <mawburn7@gmail.com>",
+  "license": "AGPL-3.0-only",
+  "private": false,
+  "devDependencies": {
+    "@typescript-eslint/parser": "^6.7.3",
+    "eslint": "^8.50.0",
+    "eslint-config-prettier": "^9.0.0",
+    "eslint-plugin-json": "^3.1.0",
+    "eslint-plugin-prettier": "^5.0.0",
+    "parcel": "^2.9.3",
+    "postcss-import": "^15.1.0",
+    "postcss-nested": "^6.0.1",
+    "prettier": "^3.0.3",
+    "stylelint": "^15.10.3",
+    "stylelint-config-prettier": "^9.0.5",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.2.2"
+  }
+}
