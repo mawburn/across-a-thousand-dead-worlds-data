@@ -1,0 +1,254 @@
+[
+  {
+    "name": "Aim",
+    "cost": "10 Stamina",
+    "effect": "Deal double damage on your next attack, if it’s with a ranged weapon.",
+    "roll": "1-2"
+  },
+  {
+    "name": "Backstab",
+    "cost": "5 Stamina",
+    "effect": "Following a successful Stealth check, use a knife to perform a powerful surprise attack, dealing an additional +2D10 damage to one enemy. Can only be used when not engaged in combat.",
+    "roll": "3-4"
+  },
+  {
+    "name": "Bash",
+    "cost": "10 Stamina",
+    "effect": "After a successful attack, your base damage with two-handed weapons is 2D10 instead of D10.",
+    "roll": "5-6"
+  },
+  {
+    "name": "Bounce Throw",
+    "cost": "No cost mentioned",
+    "effect": "You can re-roll one scatter roll when you fail to throw a grenade (or similar item).",
+    "roll": "7-8"
+  },
+  {
+    "name": "Breath Control",
+    "cost": "No cost mentioned",
+    "effect": "You can make each Oxygen Pellet last 2 Time Track resets.",
+    "roll": "9-10"
+  },
+  {
+    "name": "Calm",
+    "cost": "No cost mentioned",
+    "effect": "Each time you gain Stress you gain 1 less (minimum 1).",
+    "roll": "11-12"
+  },
+  {
+    "name": "Careless",
+    "cost": "No cost mentioned",
+    "effect": "When activated, you gain +5 to your attacks this round but you cannot spend Stamina on defensive moves.",
+    "roll": "13-14"
+  },
+  {
+    "name": "Charge",
+    "cost": "No cost mentioned",
+    "effect": "You can barge into melee, gaining +5 Skill and +5 damage during your first turn. Cannot be used in conjunction with any form of stealth.",
+    "roll": "15-16"
+  },
+  {
+    "name": "Cleave",
+    "cost": "8 Stamina",
+    "effect": "When wielding a two-handed melee weapon, all enemies adjacent to your target also take half of the rolled damage.",
+    "roll": "17-18"
+  },
+  {
+    "name": "Compartmentalized Mind",
+    "cost": "No cost mentioned",
+    "effect": "When you gain a Negative Trait, roll twice and choose the result you prefer.",
+    "roll": "19-20"
+  },
+  {
+    "name": "Counter-Attack",
+    "cost": "5 Stamina",
+    "effect": "While wielding a melee weapon, if you win the combat roll during an opponent's turn your attack automatically causes 1 Wound.",
+    "roll": "21-22"
+  },
+  {
+    "name": "Coup de Grace",
+    "cost": "No cost mentioned",
+    "effect": "Gain +D8 damage against knocked-down enemies.",
+    "roll": "23-24"
+  },
+  {
+    "name": "Diligent Medic",
+    "cost": "No cost mentioned",
+    "effect": "You may attempt to heal the same Wound twice per Time Track, instead of once.",
+    "roll": "25-26"
+  },
+  {
+    "name": "Discerning",
+    "cost": "No cost mentioned",
+    "effect": "You can perform an INT check to determine if someone’s lying or trying to manipulate you.",
+    "roll": "27-28"
+  },
+  {
+    "name": "Dual Wielding",
+    "cost": "No cost mentioned",
+    "effect": "Each turn you attack, you may use an off-hand weapon to attack again with disadvantage.",
+    "roll": "29-30"
+  },
+  {
+    "name": "Hard to Kill",
+    "cost": "No cost mentioned",
+    "effect": "Gain +1 max Wounds.",
+    "roll": "31-32"
+  },
+  {
+    "name": "Ignore Cover",
+    "cost": "8 Stamina",
+    "effect": "Fire at an enemy behind cover as if they had no cover at all.",
+    "roll": "33-34"
+  },
+  {
+    "name": "Lucky",
+    "cost": "No cost mentioned",
+    "effect": "Each time you roll a natural 11 on the D20, you gain 1 Luck. You may not earn Luck any other way.",
+    "roll": "35-36"
+  },
+  {
+    "name": "Marksman",
+    "cost": "No cost mentioned",
+    "effect": "Gain +2 damage on ranged attacks.",
+    "roll": "37-38"
+  },
+  {
+    "name": "Momentum",
+    "cost": "5 Stamina",
+    "effect": "Deal an extra +1D6 damage to a downed opponent, in an attempt to eliminate them. If the opponent is eliminated, gain +2 damage for the rest of the combat. This effect stacks with itself.",
+    "roll": "39-40"
+  },
+  {
+    "name": "Movement Economy",
+    "cost": "No cost mentioned",
+    "effect": "You only spend 3 Stamina per round while in Stealth.",
+    "roll": "41-42"
+  },
+  {
+    "name": "Multi-Target",
+    "cost": "10 Stamina",
+    "effect": "Target 3 adjacent enemies with a single ranged weapon attack.",
+    "roll": "43-44"
+  },
+  {
+    "name": "Neutralize",
+    "cost": "10 Stamina",
+    "effect": "Carefully observe your opponent, then perform an attack to neutralize one of their unique abilities. If you hit and the damage would surpass the target's CON, they can no longer use that ability. No Wounds are caused with this attack.",
+    "roll": "45-46"
+  },
+  {
+    "name": "Overpower",
+    "cost": "",
+    "effect": "If you roll max damage (e.g. a result of 16 on D10 + 6), you automatically inflict a Wound.",
+    "roll": "63-64"
+  },
+  {
+    "name": "Overwhelm",
+    "cost": "",
+    "effect": "After a knocked-down opponent recovers, their Recovery Status roll is modified by +3.",
+    "roll": "65-66"
+  },
+  {
+    "name": "Pack Rat",
+    "cost": "",
+    "effect": "You perfectly arrange the things in your bag, gaining +2 Gear Slots.",
+    "roll": "67-68"
+  },
+  {
+    "name": "Parry",
+    "cost": "3 Stamina",
+    "effect": "When hit by an attack, roll your weapon's damage. If the damage you roll is equal or higher than the attacker's, you parry it and receive no damage.",
+    "roll": "69-70"
+  },
+  {
+    "name": "Point-Blank Expert",
+    "cost": "",
+    "effect": "You suffer no penalty when using a ranged weapon in melee.",
+    "roll": "71-72"
+  },
+  {
+    "name": "Quiet",
+    "cost": "",
+    "effect": "All rolls on the Site Activity table are reduced by 1 (minimum 1). This effect does not stack.",
+    "roll": "73-74"
+  },
+  {
+    "name": "Rend Armor",
+    "cost": "8 Stamina",
+    "effect": "Tear through an enemy's defenses, causing them to permanently lose 2 Armor.",
+    "roll": "75-76"
+  },
+  {
+    "name": "Resilient",
+    "cost": "",
+    "effect": "You no longer suffer -2 to all actions while injured.",
+    "roll": "77-78"
+  },
+  {
+    "name": "Resist the Taint",
+    "cost": "",
+    "effect": "You may ignore the negative effects of a Taint.",
+    "roll": "79-80"
+  },
+  {
+    "name": "Resuscitate",
+    "cost": "",
+    "effect": "Within 1 minute after another character dies, you may perform a Medical Aid check. If you roll an Impressive success or more, the character is revived. They will remain unconscious for D10+10 hours with 1 Wound remaining.",
+    "roll": "81-82"
+  },
+  {
+    "name": "Skill Boost",
+    "cost": "1 Luck",
+    "effect": "Gain +5 to your next skill check.",
+    "roll": "83-84"
+  },
+  {
+    "name": "Step Where I Step!",
+    "cost": "",
+    "effect": "You lead the way while sneaking, granting the rest of your team +2 to their next Stealth check.",
+    "roll": "85-86"
+  },
+  {
+    "name": "Stout",
+    "cost": "",
+    "effect": "You have Advantage on all Resolve checks.",
+    "roll": "87-88"
+  },
+  {
+    "name": "Strong",
+    "cost": "",
+    "effect": "Deal +2 extra damage on melee attacks.",
+    "roll": "89-90"
+  },
+  {
+    "name": "Targeted Strikes",
+    "cost": "",
+    "effect": "Gain +1 to all rolls on the Hit Location table.",
+    "roll": "91-92"
+  },
+  {
+    "name": "Tough",
+    "cost": "",
+    "effect": "You roll Recovery checks with +2 WIL.",
+    "roll": "93-94"
+  },
+  {
+    "name": "Vigorous",
+    "cost": "",
+    "effect": "Gain +2 extra Stamina per turn.",
+    "roll": "95-96"
+  },
+  {
+    "name": "Weak Spot",
+    "cost": "2 Stamina",
+    "effect": "Re-roll a damage roll after successfully attacking.",
+    "roll": "97-98"
+  },
+  {
+    "name": "Well Connected",
+    "cost": "",
+    "effect": "You have friends everywhere in Karum Station, granting you a +2 bonus to all Manipulation checks.",
+    "roll": "99-100"
+  }
+]
