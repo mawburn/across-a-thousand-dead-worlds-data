@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Defensive",
+    "modifiers": [
+      "-2 Initiative",
+      "Must spend 6+ Stamina on defensive maneuvers each round",
+      "-4 Attack",
+      "+4 Defense"
+    ],
+    "roll": "1-2"
+  },
+  {
+    "name": "Neutral",
+    "modifiers": [
+      "This stance has no effect on a character’s statistics."
+    ],
+    "roll": "3-4"
+  },
+  {
+    "name": "Aggressive",
+    "modifiers": [
+      "+2 Initiative",
+      "Must spend 6+ Stamina on offensive maneuvers each round",
+      "+4 Attack",
+      "-4 Defense"
+    ],
+    "roll": "5-6"
+  }
+]

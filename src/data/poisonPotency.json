@@ -1,0 +1,18 @@
+[
+  {
+    "roll": "1",
+    "effect": "Take 1 Wound and roll a CON check. On a failed roll, the character will die in D20 rounds (or 1 Time Track reset) unless administered an antidote."
+  },
+  {
+    "roll": "2",
+    "effect": "Take 1 Wound and roll a CON (+5) check. On a failed roll, the character will die in D20 rounds (or 1 Time Track reset) unless administered an antidote."
+  },
+  {
+    "roll": "3",
+    "effect": "Pass a CON check or receive 1 Wound."
+  },
+  {
+    "roll": "4",
+    "effect": "Pass a CON check or be Knocked Down (no damage)."
+  }
+]

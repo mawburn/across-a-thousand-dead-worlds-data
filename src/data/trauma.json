@@ -1,0 +1,18 @@
+[
+  {
+    "roll": "1-2",
+    "effect": "Roll on the Negative Traits table."
+  },
+  {
+    "roll": "3",
+    "effect": "The extreme nervousness you feel just makes things worse. Gain 5 permanent Stress."
+  },
+  {
+    "roll": "4",
+    "effect": "Your shaking hands can barely hold a thing. Take -1 to either Close Combat or Ranged Combat."
+  },
+  {
+    "roll": "5",
+    "effect": "You have problems focusing your attention on complicated tasks (-1 INT)."
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "roll": "1",
+    "name": "Frugality",
+    "description": "Frugality and minimalism are truest virtues, in all aspects of life."
+  },
+  {
+    "roll": "2",
+    "name": "Suffering",
+    "description": "All in life is suffering, there is no escaping it."
+  },
+  {
+    "roll": "3",
+    "name": "Excellence",
+    "description": "I must become the best at everything I do."
+  },
+  {
+    "roll": "4",
+    "name": "Perfection",
+    "description": "Everything must be perfect, or it's not worth doing at all."
+  },
+  {
+    "roll": "5",
+    "name": "Control",
+    "description": "I must be in control of every situation."
+  },
+  {
+    "roll": "6",
+    "name": "Purity",
+    "description": "Purity is the highest virtue, in body and soul."
+  },
+  {
+    "roll": "7",
+    "name": "Knowledge",
+    "description": "I must know everything there is to know."
+  },
+  {
+    "roll": "8",
+    "name": "Isolation",
+    "description": "It's better to be alone than with others."
+  },
+  {
+    "roll": "9",
+    "name": "Pleasure",
+    "description": "Life is about seeking pleasure above all else."
+  },
+  {
+    "roll": "10",
+    "name": "Power",
+    "description": "Power is the only thing that matters in life."
+  },
+  {
+    "roll": "11",
+    "name": "Revenge",
+    "description": "Those who wronged me will pay."
+  },
+  {
+    "roll": "12",
+    "name": "Safety",
+    "description": "I must ensure my safety at all costs."
+  }
+]

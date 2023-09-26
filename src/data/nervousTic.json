@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Coughing",
+    "roll": "1"
+  },
+  {
+    "name": "Blinking",
+    "roll": "2"
+  },
+  {
+    "name": "Wrinkling your nose",
+    "roll": "3"
+  },
+  {
+    "name": "Clicking your fingers",
+    "roll": "4"
+  },
+  {
+    "name": "Bouncing your leg",
+    "roll": "5"
+  },
+  {
+    "name": "Touching other people",
+    "roll": "6"
+  },
+  {
+    "name": "Touching others’ things",
+    "roll": "7"
+  },
+  {
+    "name": "Humming",
+    "roll": "8"
+  },
+  {
+    "name": "Grunting",
+    "roll": "9"
+  },
+  {
+    "name": "Sniffing",
+    "roll": "10"
+  },
+  {
+    "name": "Repeating a phrase",
+    "roll": "11"
+  },
+  {
+    "name": "Biting your nails",
+    "roll": "12"
+  },
+  {
+    "name": "Flipping a coin or other small item",
+    "roll": "13"
+  },
+  {
+    "name": "Fiddling with a pendant or bracelet",
+    "roll": "14"
+  },
+  {
+    "name": "Pulling your hair",
+    "roll": "15"
+  },
+  {
+    "name": "Cracking bones",
+    "roll": "16"
+  },
+  {
+    "name": "Swaying",
+    "roll": "17"
+  },
+  {
+    "name": "Pacing",
+    "roll": "18"
+  },
+  {
+    "name": "Laughing loudly and nervously",
+    "roll": "19"
+  },
+  {
+    "name": "Sighing constantly",
+    "roll": "20"
+  }
+]

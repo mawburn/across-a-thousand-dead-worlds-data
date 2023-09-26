@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Algae Farmer",
+    "description": "You spent most of your life working one of the giant algae farms that feeds most of the world, probably after inheriting the job from your parents.",
+    "options": "Choose: +1 Resolve or +1 Survival",
+    "roll": "1"
+  },
+  {
+    "name": "Blue Collar Worker",
+    "description": "You’re just another of the million workers that maintain the machinery—always unseen, always abused. When the opportunity arrived to leave it all behind, you just took it. Screw being poor, the world shall be your oyster!",
+    "options": "Choose: +1 Technology or +1 Perception",
+    "roll": "2"
+  },
+  {
+    "name": "Celebrity",
+    "description": "Back on Earth (or maybe even Mars), when your millions of followers seemed ready to turn their fleeting attention to the next big thing, it was time for the ultimate publicity stunt: becoming a Deep Diver and blogging about your experiences. Your agent thinks you’ve lost your mind, and you know that this is a potentially deadly decision, but what’s worse: to die and have millions remember you, or to slowly fade into anonymity?",
+    "options": "Choose: +1 Manipulation or +1 Perception",
+    "roll": "3"
+  },
+  {
+    "name": "Data Miner",
+    "description": "After years of 16-hour shifts in front of a screen, you had enough. Sure, things could be much worse (you could be picking through the garbage mounds outside of town, like so many others), but you knew you were destined for greater things. So you left it all behind, eyes firmly set on the future, whatever it may hold.",
+    "options": "Choose: +1 Science or +1 Technology",
+    "roll": "4"
+  },
+  {
+    "name": "Hedge Fund Kid",
+    "description": "You’re one of the lucky ones—living the high life far from the rest of the world’s hardships. Still, life became stale after a while and you couldn’t just sit on your hands while others made history. You left it all behind, and now you have nothing but your determination.",
+    "options": "Choose: +1 Manipulation or +1 Resolve",
+    "roll": "5"
+  },
+  {
+    "name": "Ocean Sweeper",
+    "description": "The oceans may be dead, but they’re full to the brim with plastic and other useful materials. You and your crew spend months in the world’s silent, eerie waters, the smell of rotten matter and toxic algae forever a part of your life. Surely this is not all life has to offer? With that question in mind, you left the oceans behind in search of a better life.",
+    "options": "Choose: +1 Perception or +1 Survival",
+    "roll": "6"
+  },
+  {
+    "name": "Police Officer",
+    "description": "You were one of the few, the proud, the underpaid. You’ve seen the worst humanity has to offer, and you’ve met it head on. You’re not afraid of the dark, or of what might be lurking in it.",
+    "options": "Choose: +1 Perception or +1 Resolve",
+    "roll": "7"
+  },
+  {
+    "name": "Politician",
+    "description": "You were one of the world’s leaders, responsible for the lives of millions. The pressure was unbearable, and you had to leave it all behind before it consumed you. Now you’re just another face in the crowd, and you couldn’t be happier.",
+    "options": "Choose: +1 Manipulation or +1 Resolve",
+    "roll": "8"
+  },
+  {
+    "name": "Scavenger",
+    "description": "You’ve spent your life picking through the ruins of the old world, always on the lookout for something valuable. You’ve seen things that would break a lesser person, but you’ve always come out on top.",
+    "options": "Choose: +1 Perception or +1 Survival",
+    "roll": "9"
+  },
+  {
+    "name": "Scientist",
+    "description": "You were one of the world’s leading experts in your field, but the constant pressure and the politics of academia were too much. You left it all behind in search of something real, something tangible.",
+    "options": "Choose: +1 Science or +1 Technology",
+    "roll": "10"
+  }
+]

@@ -1,0 +1,46 @@
+{
+  "Direct": [
+    {
+      "rads": "0-50",
+      "effect": "None"
+    },
+    {
+      "rads": "51-150",
+      "effect": "Nausea and general dizziness, -2 to all actions"
+    },
+    {
+      "rads": "151-300",
+      "effect": "Headache and vomiting, 1 Wound"
+    },
+    {
+      "rads": "301-500",
+      "effect": "Hair loss, fever. 1 Wound, -2 to all actions"
+    },
+    {
+      "rads": "501-700",
+      "effect": "Death after D10 hours of agony"
+    }
+  ],
+  "Cumulative": [
+    {
+      "rads": "0-50",
+      "effect": "None"
+    },
+    {
+      "rads": "51-150",
+      "effect": "-1 CON"
+    },
+    {
+      "rads": "151-300",
+      "effect": "-1 STR"
+    },
+    {
+      "rads": "301-500",
+      "effect": "-1 CON & STR"
+    },
+    {
+      "rads": "501-700",
+      "effect": "Death after D10 hours of agony"
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "melee": [
+    {
+      "roll": "1",
+      "name": "Swung Too Hard",
+      "effect": "Without the resistance of a successful strike, you lose hold of your weapon. Spend 5 Stamina to either recover it or draw a different weapon."
+    },
+    {
+      "roll": "2",
+      "name": "Slipped",
+      "effect": "You step on something slippery. Test DEX or be Knocked Down."
+    },
+    {
+      "roll": "3",
+      "name": "Moved Wrong",
+      "effect": "You overdo it and pull a muscle. Test CON or reduce your Stamina by 3 for this encounter."
+    },
+    {
+      "roll": "4",
+      "name": "Lost Confidence",
+      "effect": "Now that you think about it, this is not looking good. Reduce your Initiative by 2."
+    },
+    {
+      "roll": "5",
+      "name": "Panic Attack",
+      "effect": "Test WIL or reduce your Combat skills by 2 for this encounter."
+    },
+    {
+      "roll": "6",
+      "name": "Twisted Ankle",
+      "effect": "You step the wrong way and now it hurts each time you move. Add +2 to all incoming damage."
+    },
+    {
+      "roll": "7",
+      "name": "Exposed",
+      "effect": "You swing ungraciously and leave yourself exposed. All enemies targeting you get a free attack."
+    },
+    {
+      "roll": "8",
+      "name": "Unguarded",
+      "effect": "You are fighting recklessly. You cannot spend Stamina on defensive maneuvers for the rest of this encounter."
+    },
+    {
+      "roll": "9",
+      "name": "Exhausted",
+      "effect": "The fight’s weight suddenly overwhelms you. Roll Recovery Checks with disadvantage for this encounter."
+    },
+    {
+      "roll": "10",
+      "name": "Terrible Swing",
+      "effect": "You miscalculate badly, not only missing your target but hitting yourself. Roll for damage as normal."
+    }
+  ],
+  "ranged": [
+    {
+      "roll": "1",
+      "name": "Jammed Weapon",
+      "effect": "It won’t fix itself! Either spend all your Stamina unjamming it or spend 5 Stamina to drop it and draw a different weapon."
+    },
+    {
+      "roll": "2",
+      "name": "Slipped",
+      "effect": "You step on something slippery. Test DEX or be Knocked Down."
+    },
+    {
+      "roll": "3",
+      "name": "Dropped Weapon",
+      "effect": "Your weapon slips from your sweaty hands. Spend 5 Stamina to either recover it or draw a different weapon."
+    },
+    {
+      "roll": "4",
+      "name": "Loss of Confidence",
+      "effect": "Now that you think about it, this is not looking good. Reduce your Initiative by 2."
+    },
+    {
+      "roll": "5",
+      "name": "Panic Attack",
+      "effect": "Test WIL or reduce your Combat skills by 2 for this encounter."
+    },
+    {
+      "roll": "6",
+      "name": "Shattered",
+      "effect": "Instead of firing, your weapon blows up in your hands. You are unscathed but your weapon is scrap."
+    },
+    {
+      "roll": "7",
+      "name": "Exposed",
+      "effect": "You step to the wrong side, leaving yourself exposed. All enemies targeting you get a free attack."
+    },
+    {
+      "roll": "8",
+      "name": "Unguarded",
+      "effect": "You are fighting recklessly. You cannot spend Stamina on defensive maneuvers for the rest of this encounter."
+    }
+  ]
+}

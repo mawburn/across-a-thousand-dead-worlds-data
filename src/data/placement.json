@@ -1,0 +1,18 @@
+[
+  {
+    "name": "North",
+    "roll": "1"
+  },
+  {
+    "name": "East",
+    "roll": "2"
+  },
+  {
+    "name": "South",
+    "roll": "3"
+  },
+  {
+    "name": "West",
+    "roll": "4"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Child’s Play",
+    "roll": "1",
+    "modifier": "+15"
+  },
+  {
+    "name": "Effortless",
+    "roll": "2",
+    "modifier": "+10"
+  },
+  {
+    "name": "Easy",
+    "roll": "3",
+    "modifier": "+5"
+  },
+  {
+    "name": "Normal",
+    "roll": "4-5",
+    "modifier": "0"
+  },
+  {
+    "name": "Demanding",
+    "roll": "6",
+    "modifier": "-5"
+  },
+  {
+    "name": "Hard",
+    "roll": "7",
+    "modifier": "-10"
+  },
+  {
+    "name": "Almost Impossible",
+    "roll": "8",
+    "modifier": "-15"
+  }
+]

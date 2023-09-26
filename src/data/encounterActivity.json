@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Resting or eating (if appropriate)",
+    "roll": "1"
+  },
+  {
+    "name": "Fighting another of its kind",
+    "roll": "2"
+  },
+  {
+    "name": "Fighting another creature (determined randomly)",
+    "roll": "3"
+  },
+  {
+    "name": "Patrolling or keeping watch",
+    "roll": "4"
+  },
+  {
+    "name": "Fleeing",
+    "roll": "5"
+  },
+  {
+    "name": "Recovering from a recent battle",
+    "roll": "6"
+  },
+  {
+    "name": "Preparing a base or lair",
+    "roll": "7"
+  },
+  {
+    "name": "Behaving according to its species (grooming, marking, on stand-by, etc.)",
+    "roll": "8"
+  }
+]

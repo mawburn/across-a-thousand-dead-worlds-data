@@ -1,0 +1,56 @@
+{
+  "Around Others": [
+    {
+      "roll": "1-2",
+      "name": "Starting an Argument",
+      "effect": "Use their relations, stories and past events to logically decide which team member makes the most sense."
+    },
+    {
+      "roll": "3-4",
+      "name": "Isolating or Seeking Solace",
+      "effect": "The character withdraws as much as possible—both physically and psychologically. Whether they lock themself away or grab the nearest bottle of whisky is up to the player or GM."
+    },
+    {
+      "roll": "5-6",
+      "name": "Becoming Anxious",
+      "effect": "The character succumbs to anxiety, making things clearly worse for others. Everyone gains 1 Stress and the character is of little help."
+    },
+    {
+      "roll": "7-8",
+      "name": "Lashing Out",
+      "effect": "The character not only starts an argument but becomes actively aggressive, potentially causing a fight."
+    },
+    {
+      "roll": "9-10",
+      "name": "Becoming Uncooperative",
+      "effect": "The character blames others for their current situation, becoming stubborn and unwilling to cooperate."
+    }
+  ],
+  "Alone": [
+    {
+      "roll": "1-2",
+      "name": "Hyper Focusing",
+      "effect": "The character chooses a hyper-focus activity. They gain +5 to any rolls associated with it, but suffer -5 to any other activity."
+    },
+    {
+      "roll": "3-4",
+      "name": "Timing Out",
+      "effect": "The character needs to take a break. They spend a whole Time Track reset trying to calm themself."
+    },
+    {
+      "roll": "5-6",
+      "name": "Anxiety",
+      "effect": "The character feels overwhelmed by the current events, suffering -2 to all checks."
+    },
+    {
+      "roll": "7-8",
+      "name": "Binging or Hyperventilating",
+      "effect": "If aboard a ship, the character attempts to distract themself by eating until they can’t take another bite (-D6 Rations). If exploring, the character starts hyperventilating, rapidly consuming oxygen before they manage to calm themself (-D4 Oxygen Pellets)."
+    },
+    {
+      "roll": "9-10",
+      "name": "Getting Overwhelmed",
+      "effect": "The character is starting to reach their limit and is feeling less and less secure. Their Resolve checks are at -2 for the rest of the mission."
+    }
+  ]
+}

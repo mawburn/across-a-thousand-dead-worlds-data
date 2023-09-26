@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Standard Attack",
+    "cost": "5 Stamina"
+  },
+  {
+    "name": "Heavy Attack",
+    "cost": "8 Stamina"
+  },
+  {
+    "name": "Fast Attack",
+    "cost": "3 Stamina"
+  },
+  {
+    "name": "Defensive Maneuvers",
+    "cost": "Variable"
+  },
+  {
+    "name": "Switch/Draw Weapons",
+    "cost": "5 Stamina"
+  },
+  {
+    "name": "Use or Retrieve an Item",
+    "cost": "5 Stamina"
+  },
+  {
+    "name": "Stand or Help Someone Stand",
+    "cost": "5 Stamina"
+  },
+  {
+    "name": "Adjust Initiative by 1",
+    "cost": "5 Stamina"
+  },
+  {
+    "name": "Maintain Stealth",
+    "cost": "5 Stamina/round"
+  }
+]

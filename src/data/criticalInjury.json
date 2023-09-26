@@ -1,0 +1,52 @@
+[
+  {
+    "roll": "1",
+    "name": "Crushed Skull",
+    "effect": "The character suffers a fatal wound to the head. They are dead."
+  },
+  {
+    "roll": "2",
+    "name": "Destroyed Ear",
+    "effect": "The hit cuts the character's ear off (-5 Perception)."
+  },
+  {
+    "roll": "3",
+    "name": "Missing Fingers",
+    "effect": "The character lost a few fingers from the powerful blow (-5 to Combat skills)."
+  },
+  {
+    "roll": "4",
+    "name": "Punctured Lung",
+    "effect": "The character's lung is permanently damaged (-5 Stamina)."
+  },
+  {
+    "roll": "5",
+    "name": "Cut Nose",
+    "effect": "The character lost their nose (-5 CHA)."
+  },
+  {
+    "roll": "6",
+    "name": "Swollen Brain",
+    "effect": "The character suffered a severe brain injury (-5 INT)."
+  },
+  {
+    "roll": "7",
+    "name": "Damaged Tendons",
+    "effect": "The character’s arm tendons have suffered irreparable damage (-5 STR)."
+  },
+  {
+    "roll": "8",
+    "name": "Nerve Damage",
+    "effect": "Permanent nerve damage means the character can only spend 3 Stamina points on defensive maneuvers each round."
+  },
+  {
+    "roll": "9",
+    "name": "Minor Artery Severed",
+    "effect": "The maximum number of Wounds the character may receive is reduced by 1."
+  },
+  {
+    "roll": "10",
+    "name": "Weakened",
+    "effect": "The injury has left the character's constitution weakened (+2 to all incoming damage)."
+  }
+]

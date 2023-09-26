@@ -1,0 +1,14 @@
+[
+  {
+    "name": "No surprise",
+    "roll": "1-2"
+  },
+  {
+    "name": "PCs are surprised",
+    "roll": "3-4"
+  },
+  {
+    "name": "Opponents are surprised",
+    "roll": "5-6"
+  }
+]

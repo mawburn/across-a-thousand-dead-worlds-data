@@ -1,0 +1,97 @@
+[
+  {
+    "target": "Humanoid",
+    "locations": [
+      {
+        "roll": "1",
+        "location": "Feet",
+        "modifier": "-1"
+      },
+      {
+        "roll": "2",
+        "location": "Legs",
+        "modifier": "-1"
+      },
+      {
+        "roll": "3",
+        "location": "Waist",
+        "modifier": "0"
+      },
+      {
+        "roll": "4",
+        "location": "Hands",
+        "modifier": "0"
+      },
+      {
+        "roll": "5",
+        "location": "Arms",
+        "modifier": "0"
+      },
+      {
+        "roll": "6-8",
+        "location": "Torso",
+        "modifier": "+1"
+      },
+      {
+        "roll": "9",
+        "location": "Back",
+        "modifier": "+2"
+      },
+      {
+        "roll": "10",
+        "location": "Head",
+        "modifier": "+3"
+      }
+    ]
+  },
+  {
+    "target": "Quadruped/Sextuped",
+    "locations": [
+      {
+        "roll": "1-2",
+        "location": "Hindlimb",
+        "modifier": "-1"
+      },
+      {
+        "roll": "3-6",
+        "location": "Forelimb",
+        "modifier": "0"
+      },
+      {
+        "roll": "7-9",
+        "location": "Body",
+        "modifier": "+2"
+      },
+      {
+        "roll": "10",
+        "location": "Head",
+        "modifier": "+3"
+      }
+    ]
+  },
+  {
+    "target": "Serpentine",
+    "locations": [
+      {
+        "roll": "1-2",
+        "location": "Lower Body",
+        "modifier": "-1"
+      },
+      {
+        "roll": "3-6",
+        "location": "Middle",
+        "modifier": "0"
+      },
+      {
+        "roll": "7-9",
+        "location": "Upper Body",
+        "modifier": "+2"
+      },
+      {
+        "roll": "10",
+        "location": "Head",
+        "modifier": "+3"
+      }
+    ]
+  }
+]

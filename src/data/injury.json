@@ -1,101 +1,101 @@
 [
   {
-    "name": "CRITICAL INJURY",
+    "name": "Critical Injury",
     "effect": "The character suffers an especially severe wound. Roll on the Critical Injuries table.",
     "roll": "1"
   },
   {
-    "name": "GASH",
+    "name": "Gash",
     "effect": "A deep wound cuts into the character's chest.",
     "roll": "2"
   },
   {
-    "name": "IMPAIRED ARM",
+    "name": "Impaired Arm",
     "effect": "The hit wounds the character’s arm, making it difficult to move.",
     "roll": "3"
   },
   {
-    "name": "IMPAIRED LEG",
+    "name": "Impaired Leg",
     "effect": "A direct hit to the leg causes the character to lose mobility.",
     "roll": "4"
   },
   {
-    "name": "INFECTED WOUND",
+    "name": "Infected Wound",
     "effect": "The wound has been quickly infected—it requires Antibiotics soon or it may never heal.",
     "roll": "5"
   },
   {
-    "name": "BROKEN RIBS",
+    "name": "Broken Ribs",
     "effect": "A violent hit to the rib cage shatters a few ribs.",
     "roll": "6"
   },
   {
-    "name": "SLASHED LEG",
+    "name": "Slashed Leg",
     "effect": "The character's leg suffers a deep cut, making it difficult to maneuver.",
     "roll": "7"
   },
   {
-    "name": "BANGED HEAD",
+    "name": "Banged Head",
     "effect": "The character suffers a hit to the head. The shock makes them lose their next turn.",
     "roll": "8"
   },
   {
-    "name": "DAMAGED VISION",
+    "name": "Damaged Vision",
     "effect": "The character suffers a hit to their face, blurring their vision.",
     "roll": "9"
   },
   {
-    "name": "BRAIN DAMAGE",
+    "name": "Brain Damage",
     "effect": "The character suffers a severe hit to the head, damaging their brain and causing partial amnesia.",
     "roll": "10"
   },
   {
-    "name": "CRUSHED FINGERS",
+    "name": "Crushed Fingers",
     "effect": "A direct hit to the character’s hand damages their fingers (-5 to Combat skills).",
     "roll": "11"
   },
   {
-    "name": "SUPERFICIAL WOUND",
+    "name": "Superficial Wound",
     "effect": "The character suffers an ugly-looking but superficial cut. No effect.",
     "roll": "12"
   },
   {
-    "name": "BRUISED BRAIN",
+    "name": "Bruised Brain",
     "effect": "The character suffers a blow to the back of the head, temporarily confusing them (-5 INT).",
     "roll": "13"
   },
   {
-    "name": "SLASHED EAR",
+    "name": "Slashed Ear",
     "effect": "The character's ear is damaged, reducing their hearing (-5 Perception).",
     "roll": "14"
   },
   {
-    "name": "SLIT BICEP",
+    "name": "Slit Bicep",
     "effect": "The character receives an ugly cut to the bicep (-5 STR).",
     "roll": "15"
   },
   {
-    "name": "SCRATCHED BROW",
+    "name": "Scratched Brow",
     "effect": "Their brow suffers a deep scratch, not dealing much damage but bleeding profusely. They must spend the next round wiping the blood from their eyes, clearing their vision.",
     "roll": "16"
   },
   {
-    "name": "DAMAGED NERVES",
+    "name": "Damaged Nerves",
     "effect": "The character suffers some form of nerve damage that induces seizures. Roll a D6 every turn—on a 1 they cannot act during their turn.",
     "roll": "17"
   },
   {
-    "name": "BLOOD LOSS",
+    "name": "Blood Loss",
     "effect": "A deep wound to their stomach begins bleeding profusely (+2 to all damage received).",
     "roll": "18"
   },
   {
-    "name": "SAVAGE BLOW",
+    "name": "Savage Blow",
     "effect": "The injury was so violent that the character gains 1 Trauma (pg 98).",
     "roll": "19"
   },
   {
-    "name": "TORN TO PIECES",
+    "name": "Torn to Pieces",
     "effect": "Miraculously, the blow was completely absorbed by the character's clothing. Any gear worn on the wound's location is automatically destroyed.",
     "roll": "20"
   }

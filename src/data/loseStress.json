@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Lashing Out",
+    "result": "-10 Stress"
+  },
+  {
+    "name": "Gaining a Trauma",
+    "result": "-20 Stress"
+  },
+  {
+    "name": "Arriving at their destination",
+    "result": "-10 Stress"
+  },
+  {
+    "name": "Returning to Karum Station",
+    "result": "removes all Stress"
+  },
+  {
+    "name": "Having a good night’s sleep",
+    "result": "-5 Stress"
+  },
+  {
+    "name": "Getting drunk or taking drugs",
+    "result": "-5 Stress"
+  },
+  {
+    "name": "Having sex",
+    "result": "-10 Stress"
+  },
+  {
+    "name": "Meditating",
+    "result": "pass a WIL check for -5 Stress, once a day"
+  },
+  {
+    "name": "Having a good workout",
+    "result": "pass a CON check for -5 Stress, once a day"
+  },
+  {
+    "name": "Entering a Positive Emotional State",
+    "result": "-1 Stress"
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "roll": "1-3",
+    "name": "Escape",
+    "effect": "With a terrifying shriek, the parasite attempts to flee at a speed of 10 feet/round. It will search for a difficult-to-access place and hide there until it matures into its adult form (D10 Time Tracks). Then it will be ready to start stalking the characters."
+  },
+  {
+    "roll": "4-5",
+    "name": "Leg Bite",
+    "effect": "With a snarl, the parasite attacks the nearest character’s leg (Attack Skill 8, D10+5 damage)."
+  },
+  {
+    "roll": "6",
+    "name": "Face Attack",
+    "effect": "The creature jumps to attach itself to the closest character’s face (Attack Skill 8, D10+5 damage)."
+  }
+]

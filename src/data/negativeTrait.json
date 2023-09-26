@@ -1,0 +1,102 @@
+[
+  {
+    "roll": "1",
+    "name": "Hyperventilation",
+    "description": "Increase the amount of oxygen you consume per Time Track reset by 1."
+  },
+  {
+    "roll": "2",
+    "name": "Marked by Fear",
+    "description": "The horror you felt left a permanent physical mark on you. Whether it's a twitchy eye, a shaky hand or a streak of white hair, the effects are visible (-1 CHA)."
+  },
+  {
+    "roll": "3",
+    "name": "Weakened Constitution",
+    "description": "The constant stress has left your heart weakened (-1 CON)."
+  },
+  {
+    "roll": "4",
+    "name": "Paranoia",
+    "description": "You don't really trust other people, and it shows (-2 Manipulation)."
+  },
+  {
+    "roll": "5",
+    "name": "Overly Cautious",
+    "description": "You know the horrors that are out there, and you are not going to rush into them. In solo play, +1 each time the Time Track is reset. In group play, always attack last."
+  },
+  {
+    "roll": "6",
+    "name": "Death Wish",
+    "description": "Sick with stress and desperation, you just want it to be over. Rolling a 1-3 on a Recovery check means you give up and remain Knocked Down."
+  },
+  {
+    "roll": "7",
+    "name": "Unfocused",
+    "description": "You have problems focusing your attention on complicated tasks (-1 INT)."
+  },
+  {
+    "roll": "8",
+    "name": "Phobic",
+    "description": "Even the slightest shadow terrorizes you. Each time you gain Trauma, gain 1 extra."
+  },
+  {
+    "roll": "9",
+    "name": "Damaged Memory",
+    "description": "The intense trauma has damaged your brain. Each time you earn XP, you earn ⅓ less (rounding up)."
+  },
+  {
+    "roll": "10",
+    "name": "Apathetic",
+    "description": "You no longer feel the urge to fight for anything (-1 WIL)."
+  },
+  {
+    "roll": "11",
+    "name": "Apprehensive",
+    "description": "You start doubting your capabilities (-2 to all Combat skills)."
+  },
+  {
+    "roll": "12",
+    "name": "Insecure",
+    "description": "You are afraid to jump into the fray (-1 Initiative)."
+  },
+  {
+    "roll": "13",
+    "name": "Unbeliever",
+    "description": "It is difficult for you to see your destiny (re-rolls now cost 2 Luck points)."
+  },
+  {
+    "roll": "14",
+    "name": "Let It End",
+    "description": "You are tired of trying and failing at life (+1 to incoming Injury rolls)."
+  },
+  {
+    "roll": "15",
+    "name": "Unreliable",
+    "description": "You doubt your own skills and can no longer roll critical successes."
+  },
+  {
+    "roll": "16",
+    "name": "Tired",
+    "description": "Lacking the fighting capability you once had, standard attacks now cost 6 Stamina."
+  },
+  {
+    "roll": "17",
+    "name": "Careless",
+    "description": "You don't really want to be bothered by dodging attacks. Dodging costs 1 more Stamina."
+  },
+  {
+    "roll": "18",
+    "name": "Clumsy",
+    "description": "Your hands shake and you drop things easily. Perform DEX checks with Disadvantage."
+  },
+  {
+    "roll": "19",
+    "name": "Foggy Mind",
+    "description": "You can't concentrate on tasks for long. Perform INT checks with Disadvantage."
+  },
+  {
+    "roll": "20",
+    "name": "Marked",
+    "description": "The darkness within calls the darkness without. Each Site has 2 additional Known Threats (pg 300). This is stackable, if other characters are also marked."
+  }
+]
