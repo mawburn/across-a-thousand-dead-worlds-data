@@ -23,6 +23,7 @@ import parasiteAttackData from './data/parasiteAttack.json'
 import placementData from './data/placement.json'
 import poisonPotencyData from './data/poisonPotency.json'
 import radiationExposureData from './data/radiationExposure.json'
+import siteNameData from './data/siteName.json'
 import sitePurposeData from './data/sitePurpose.json'
 import siteTimeData from './data/siteTime.json'
 import socialEventData from './data/socialEvent.json'
@@ -62,6 +63,7 @@ import type {
   Placement,
   PoisonPotency,
   RadiationExposure,
+  SiteName,
   SitePurpose,
   SiteTime,
   SocialEvent,
@@ -101,6 +103,7 @@ export const parasiteAttack: ParasiteAttack[] = parasiteAttackData
 export const placement: Placement[] = placementData
 export const poisonPotency: PoisonPotency[] = poisonPotencyData
 export const radiationExposure: RadiationExposure = radiationExposureData
+export const siteName: SiteName[] = siteNameData
 export const sitePurpose: SitePurpose[] = sitePurposeData
 export const siteTime: SiteTime = siteTimeData
 export const socialEvent: SocialEvent[] = socialEventData

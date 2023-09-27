@@ -103,6 +103,13 @@ export interface RadiationExposure {
   Cumulative: Radiation[]
 }
 
+export interface SiteName {
+  roll: string
+  first: string
+  second: string
+  numeric: string
+}
+
 export interface SitePurpose extends BaseRoll {
   description: string
 }

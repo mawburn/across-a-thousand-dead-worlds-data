@@ -1,3 +1,602 @@
 [
-  "todo: page 131"
+  {
+    "roll": "1",
+    "first": "Cha-",
+    "second": "-mun",
+    "numeric": "603451"
+  },
+  {
+    "roll": "2",
+    "first": "Tho-",
+    "second": "-ran",
+    "numeric": "530132"
+  },
+  {
+    "roll": "3",
+    "first": "Gho-",
+    "second": "-eah",
+    "numeric": "555035"
+  },
+  {
+    "roll": "4",
+    "first": "Yut-",
+    "second": "-lam",
+    "numeric": "120402"
+  },
+  {
+    "roll": "5",
+    "first": "Rhj-",
+    "second": "-tho",
+    "numeric": "908764"
+  },
+  {
+    "roll": "6",
+    "first": "Der-",
+    "second": "-vom",
+    "numeric": "493054"
+  },
+  {
+    "roll": "7",
+    "first": "Kla-",
+    "second": "-ent",
+    "numeric": "182954"
+  },
+  {
+    "roll": "8",
+    "first": "Tro-",
+    "second": "-juu",
+    "numeric": "934252"
+  },
+  {
+    "roll": "9",
+    "first": "Waa-",
+    "second": "-fre",
+    "numeric": "056900"
+  },
+  {
+    "roll": "10",
+    "first": "Net-",
+    "second": "-ije",
+    "numeric": "776853"
+  },
+  {
+    "roll": "11",
+    "first": "Vro-",
+    "second": "-gho",
+    "numeric": "758223"
+  },
+  {
+    "roll": "12",
+    "first": "Cra-",
+    "second": "-fra",
+    "numeric": "959432"
+  },
+  {
+    "roll": "13",
+    "first": "Min-",
+    "second": "-kle",
+    "numeric": "102035"
+  },
+  {
+    "roll": "14",
+    "first": "Dsa-",
+    "second": "-xet",
+    "numeric": "565433"
+  },
+  {
+    "roll": "15",
+    "first": "Wre-",
+    "second": "-gat",
+    "numeric": "345021"
+  },
+  {
+    "roll": "16",
+    "first": "Kae-",
+    "second": "-maz",
+    "numeric": "898345"
+  },
+  {
+    "roll": "17",
+    "first": "Vli-",
+    "second": "-kra",
+    "numeric": "093412"
+  },
+  {
+    "roll": "18",
+    "first": "Xri-",
+    "second": "-ale",
+    "numeric": "593839"
+  },
+  {
+    "roll": "19",
+    "first": "Qua-",
+    "second": "-tro",
+    "numeric": "983456"
+  },
+  {
+    "roll": "20",
+    "first": "Yui-",
+    "second": "-maa",
+    "numeric": "100054"
+  },
+  {
+    "roll": "21",
+    "first": "Lot-",
+    "second": "-pro",
+    "numeric": "554932"
+  },
+  {
+    "roll": "22",
+    "first": "Pli-",
+    "second": "-ioy",
+    "numeric": "230295"
+  },
+  {
+    "roll": "23",
+    "first": "Klu-",
+    "second": "-ble",
+    "numeric": "839506"
+  },
+  {
+    "roll": "24",
+    "first": "Hle-",
+    "second": "-ben",
+    "numeric": "933349"
+  },
+  {
+    "roll": "25",
+    "first": "Fla-",
+    "second": "-cla",
+    "numeric": "382920"
+  },
+  {
+    "roll": "26",
+    "first": "Zem-",
+    "second": "-mle",
+    "numeric": "455467"
+  },
+  {
+    "roll": "27",
+    "first": "Qlu-",
+    "second": "-ten",
+    "numeric": "499912"
+  },
+  {
+    "roll": "28",
+    "first": "Fru-",
+    "second": "-tla",
+    "numeric": "559302"
+  },
+  {
+    "roll": "29",
+    "first": "Bli-",
+    "second": "-jok",
+    "numeric": "034561"
+  },
+  {
+    "roll": "30",
+    "first": "Mle-",
+    "second": "-kon",
+    "numeric": "888234"
+  },
+  {
+    "roll": "31",
+    "first": "Kri-",
+    "second": "-los",
+    "numeric": "938562"
+  },
+  {
+    "roll": "32",
+    "first": "Gri-",
+    "second": "-art",
+    "numeric": "744582"
+  },
+  {
+    "roll": "33",
+    "first": "Zas-",
+    "second": "-ort",
+    "numeric": "665949"
+  },
+  {
+    "roll": "34",
+    "first": "Oer-",
+    "second": "-plo",
+    "numeric": "695921"
+  },
+  {
+    "roll": "35",
+    "first": "Ylo-",
+    "second": "-jho",
+    "numeric": "223955"
+  },
+  {
+    "roll": "36",
+    "first": "Bra-",
+    "second": "-tyo",
+    "numeric": "445912"
+  },
+  {
+    "roll": "37",
+    "first": "Sli-",
+    "second": "-moo",
+    "numeric": "779223"
+  },
+  {
+    "roll": "38",
+    "first": "Alo-",
+    "second": "-que",
+    "numeric": "493952"
+  },
+  {
+    "roll": "39",
+    "first": "Vra-",
+    "second": "-nne",
+    "numeric": "142532"
+  },
+  {
+    "roll": "40",
+    "first": "Lil-",
+    "second": "-moi",
+    "numeric": "432988"
+  },
+  {
+    "roll": "41",
+    "first": "Noa-",
+    "second": "-boa",
+    "numeric": "758392"
+  },
+  {
+    "roll": "42",
+    "first": "Kra-",
+    "second": "-gho",
+    "numeric": "559923"
+  },
+  {
+    "roll": "43",
+    "first": "Yil-",
+    "second": "-tro",
+    "numeric": "456921"
+  },
+  {
+    "roll": "44",
+    "first": "Cla-",
+    "second": "-zot",
+    "numeric": "098923"
+  },
+  {
+    "roll": "45",
+    "first": "Wek-",
+    "second": "-not",
+    "numeric": "336278"
+  },
+  {
+    "roll": "46",
+    "first": "Olg-",
+    "second": "-ion",
+    "numeric": "234592"
+  },
+  {
+    "roll": "47",
+    "first": "Plo-",
+    "second": "-ert",
+    "numeric": "009645"
+  },
+  {
+    "roll": "48",
+    "first": "Fre-",
+    "second": "-fri",
+    "numeric": "289540"
+  },
+  {
+    "roll": "49",
+    "first": "Tyo-",
+    "second": "-zer",
+    "numeric": "829395"
+  },
+  {
+    "roll": "50",
+    "first": "Nil-",
+    "second": "-fis",
+    "numeric": "928395"
+  },
+  {
+    "roll": "51",
+    "first": "Laa-",
+    "second": "-ezy",
+    "numeric": "882245"
+  },
+  {
+    "roll": "52",
+    "first": "Kri-",
+    "second": "-max",
+    "numeric": "548921"
+  },
+  {
+    "roll": "53",
+    "first": "Don-",
+    "second": "-khe",
+    "numeric": "230011"
+  },
+  {
+    "roll": "54",
+    "first": "Rea-",
+    "second": "-aer",
+    "numeric": "334412"
+  },
+  {
+    "roll": "55",
+    "first": "Din-",
+    "second": "-ohl",
+    "numeric": "554291"
+  },
+  {
+    "roll": "56",
+    "first": "Gar-",
+    "second": "-anh",
+    "numeric": "899876"
+  },
+  {
+    "roll": "57",
+    "first": "Veg-",
+    "second": "-ebe",
+    "numeric": "837455"
+  },
+  {
+    "roll": "58",
+    "first": "Ali-",
+    "second": "-fre",
+    "numeric": "235511"
+  },
+  {
+    "roll": "59",
+    "first": "Joa-",
+    "second": "-kir",
+    "numeric": "344321"
+  },
+  {
+    "roll": "60",
+    "first": "Arb-",
+    "second": "-fre",
+    "numeric": "323116"
+  },
+  {
+    "roll": "61",
+    "first": "Imb-",
+    "second": "-act",
+    "numeric": "626233"
+  },
+  {
+    "roll": "62",
+    "first": "Glo-",
+    "second": "-men",
+    "numeric": "774198"
+  },
+  {
+    "roll": "63",
+    "first": "Tru-",
+    "second": "-jar",
+    "numeric": "900882"
+  },
+  {
+    "roll": "64",
+    "first": "Nao-",
+    "second": "-kle",
+    "numeric": "458382"
+  },
+  {
+    "roll": "65",
+    "first": "Mom-",
+    "second": "-fra",
+    "numeric": "621776"
+  },
+  {
+    "roll": "66",
+    "first": "All-",
+    "second": "-gen",
+    "numeric": "141125"
+  },
+  {
+    "roll": "67",
+    "first": "Cob-",
+    "second": "-dad",
+    "numeric": "229925"
+  },
+  {
+    "roll": "68",
+    "first": "Ret-",
+    "second": "-tri",
+    "numeric": "050091"
+  },
+  {
+    "roll": "69",
+    "first": "Yeo-",
+    "second": "-gla",
+    "numeric": "448392"
+  },
+  {
+    "roll": "70",
+    "first": "Mal-",
+    "second": "-fer",
+    "numeric": "343560"
+  },
+  {
+    "roll": "71",
+    "first": "Deo-",
+    "second": "-dru",
+    "numeric": "883418"
+  },
+  {
+    "roll": "72",
+    "first": "Var-",
+    "second": "-gry",
+    "numeric": "456612"
+  },
+  {
+    "roll": "73",
+    "first": "Blo-",
+    "second": "-ope",
+    "numeric": "323301"
+  },
+  {
+    "roll": "74",
+    "first": "Hoj-",
+    "second": "-eme",
+    "numeric": "413445"
+  },
+  {
+    "roll": "75",
+    "first": "Qon-",
+    "second": "-tri",
+    "numeric": "999771"
+  },
+  {
+    "roll": "76",
+    "first": "Tri-",
+    "second": "-nae",
+    "numeric": "223008"
+  },
+  {
+    "roll": "77",
+    "first": "Kol-",
+    "second": "-onu",
+    "numeric": "449923"
+  },
+  {
+    "roll": "78",
+    "first": "Deo-",
+    "second": "-dos",
+    "numeric": "220958"
+  },
+  {
+    "roll": "79",
+    "first": "Emr-",
+    "second": "-otr",
+    "numeric": "592934"
+  },
+  {
+    "roll": "80",
+    "first": "Fio-",
+    "second": "-dar",
+    "numeric": "781234"
+  },
+  {
+    "roll": "81",
+    "first": "Par-",
+    "second": "-tea",
+    "numeric": "855183"
+  },
+  {
+    "roll": "82",
+    "first": "Hon-",
+    "second": "-mak",
+    "numeric": "432099"
+  },
+  {
+    "roll": "83",
+    "first": "Hok-",
+    "second": "-epi",
+    "numeric": "050529"
+  },
+  {
+    "roll": "84",
+    "first": "Tra-",
+    "second": "-mil",
+    "numeric": "144102"
+  },
+  {
+    "roll": "85",
+    "first": "Hoc-",
+    "second": "-las",
+    "numeric": "456177"
+  },
+  {
+    "roll": "86",
+    "first": "Vli-",
+    "second": "-mat",
+    "numeric": "882345"
+  },
+  {
+    "roll": "87",
+    "first": "Gho-",
+    "second": "-try",
+    "numeric": "922384"
+  },
+  {
+    "roll": "88",
+    "first": "Dra-",
+    "second": "-axe",
+    "numeric": "346258"
+  },
+  {
+    "roll": "89",
+    "first": "Kro-",
+    "second": "-eta",
+    "numeric": "456176"
+  },
+  {
+    "roll": "90",
+    "first": "Tho-",
+    "second": "-rge",
+    "numeric": "717314"
+  },
+  {
+    "roll": "91",
+    "first": "Tuy-",
+    "second": "-yol",
+    "numeric": "558213"
+  },
+  {
+    "roll": "92",
+    "first": "Vil-",
+    "second": "-nes",
+    "numeric": "235019"
+  },
+  {
+    "roll": "93",
+    "first": "Chu-",
+    "second": "-thi",
+    "numeric": "293758"
+  },
+  {
+    "roll": "94",
+    "first": "Xat-",
+    "second": "-pha",
+    "numeric": "000223"
+  },
+  {
+    "roll": "95",
+    "first": "Oom-",
+    "second": "-tha",
+    "numeric": "948459"
+  },
+  {
+    "roll": "96",
+    "first": "Klo-",
+    "second": "-rid",
+    "numeric": "589212"
+  },
+  {
+    "roll": "97",
+    "first": "Gan-",
+    "second": "-gys",
+    "numeric": "385175"
+  },
+  {
+    "roll": "98",
+    "first": "Fyr-",
+    "second": "-mef",
+    "numeric": "239278"
+  },
+  {
+    "roll": "99",
+    "first": "Elo-",
+    "second": "-ert",
+    "numeric": "857720"
+  },
+  {
+    "roll": "100",
+    "first": "Kal-",
+    "second": "-tit",
+    "numeric": "837190"
+  }
 ]
