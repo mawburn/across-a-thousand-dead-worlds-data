@@ -1,0 +1,42 @@
+[
+  {
+    "roll": "1",
+    "name": "Near some ancient, barely recognizable ruins"
+  },
+  {
+    "roll": "2",
+    "name": "Prone to cave-ins"
+  },
+  {
+    "roll": "3",
+    "name": "Near flowing lava"
+  },
+  {
+    "roll": "4",
+    "name": "Near a body of water"
+  },
+  {
+    "roll": "5",
+    "name": "In a jungle-like environment"
+  },
+  {
+    "roll": "6",
+    "name": "In a barren place"
+  },
+  {
+    "roll": "7",
+    "name": "Within a mountain"
+  },
+  {
+    "roll": "8",
+    "name": "Home to an active animal"
+  },
+  {
+    "roll": "9",
+    "name": "Partially buried"
+  },
+  {
+    "roll": "10",
+    "name": "Flooded"
+  }
+]

@@ -1,4 +1,5 @@
 import anomalyEventData from './data/anomalyEvent.json'
+import areaConnectorData from './data/areaConnector.json'
 import arrivalData from './data/arrival.json'
 import backgroundData from './data/background.json'
 import combatEventData from './data/combatEvent.json'
@@ -11,6 +12,7 @@ import earnedPlaceData from './data/earnedPlace.json'
 import encounterActivityData from './data/encounterActivity.json'
 import hitLocationData from './data/hitLocation.json'
 import injuryData from './data/injury.json'
+import knownThreadData from './data/knownThread.json'
 import lifeEventData from './data/lifeEvent.json'
 import loseStressData from './data/loseStress.json'
 import malfunctionEventData from './data/malfunctionEvent.json'
@@ -21,10 +23,17 @@ import npcTargetData from './data/npcTarget.json'
 import obsessionData from './data/obsession.json'
 import parasiteAttackData from './data/parasiteAttack.json'
 import placementData from './data/placement.json'
+import planetarySiteDescriptorData from './data/planetarySiteDescriptor.json'
 import poisonPotencyData from './data/poisonPotency.json'
 import radiationExposureData from './data/radiationExposure.json'
+import siteActivityData from './data/siteActivity.json'
+import siteDescriptorData from './data/siteDescriptor.json'
+import siteExplorationData from './data/siteExploration.json'
+import siteHazardData from './data/siteHazard.json'
 import siteNameData from './data/siteName.json'
 import sitePurposeData from './data/sitePurpose.json'
+import siteSizeData from './data/siteSize.json'
+import siteStoryData from './data/siteStory.json'
 import siteTimeData from './data/siteTime.json'
 import socialEventData from './data/socialEvent.json'
 import spaceshipAdjectiveData from './data/spaceshipAdjective.json'
@@ -39,6 +48,7 @@ import travelEventData from './data/travelEvent.json'
 
 import type {
   AnomalyEvent,
+  AreaConnector,
   Arrival,
   Background,
   CombatEvent,
@@ -51,6 +61,7 @@ import type {
   EncounterActivity,
   HitLocation,
   Injury,
+  KnownThread,
   LifeEvent,
   LoseStress,
   MalfunctionEvent,
@@ -61,10 +72,17 @@ import type {
   Obsession,
   ParasiteAttack,
   Placement,
+  PlanetarySiteDescriptor,
   PoisonPotency,
   RadiationExposure,
+  SiteActivity,
+  SiteDescriptor,
+  SiteExploration,
+  SiteHazard,
   SiteName,
   SitePurpose,
+  SiteSize,
+  SiteStory,
   SiteTime,
   SocialEvent,
   SpaceshipAdjective,
@@ -79,6 +97,7 @@ import type {
 } from './types'
 
 export const anomalyEvent: AnomalyEvent[] = anomalyEventData
+export const areaConnector: AreaConnector[] = areaConnectorData
 export const arrival: Arrival[] = arrivalData
 export const background: Background[] = backgroundData
 export const combatEvent: CombatEvent[] = combatEventData
@@ -91,6 +110,7 @@ export const earnedPlace: EarnedPlace[] = earnedPlaceData
 export const encounterActivity: EncounterActivity[] = encounterActivityData
 export const hitLocation: HitLocation[] = hitLocationData
 export const injuryTable: Injury[] = injuryData
+export const knownThread: KnownThread[] = knownThreadData
 export const lifeEvent: LifeEvent[] = lifeEventData
 export const loseStress: LoseStress[] = loseStressData
 export const malfunctionEvent: MalfunctionEvent[] = malfunctionEventData
@@ -101,10 +121,17 @@ export const npcTarget: NPCTarget[] = npcTargetData
 export const obsession: Obsession[] = obsessionData
 export const parasiteAttack: ParasiteAttack[] = parasiteAttackData
 export const placement: Placement[] = placementData
+export const planetarySiteDescriptor: PlanetarySiteDescriptor[] = planetarySiteDescriptorData
 export const poisonPotency: PoisonPotency[] = poisonPotencyData
 export const radiationExposure: RadiationExposure = radiationExposureData
+export const siteActivity: SiteActivity[] = siteActivityData
+export const siteDescriptor: SiteDescriptor[] = siteDescriptorData
+export const siteExploration: SiteExploration[] = siteExplorationData
+export const siteHazard: SiteHazard[] = siteHazardData
 export const siteName: SiteName[] = siteNameData
 export const sitePurpose: SitePurpose[] = sitePurposeData
+export const siteSize: SiteSize[] = siteSizeData
+export const siteStory: SiteStory[] = siteStoryData
 export const siteTime: SiteTime = siteTimeData
 export const socialEvent: SocialEvent[] = socialEventData
 export const spaceshipAdjective: SpaceshipAdjective[] = spaceshipAdjectiveData

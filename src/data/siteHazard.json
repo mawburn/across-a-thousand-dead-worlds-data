@@ -1,0 +1,42 @@
+[
+  {
+    "roll": "1",
+    "name": "Psychic Disturbances",
+    "description": "Something terrible happened here, something that still echoes through its dark, cavernous halls. You can feel it, simply by standing within these cursed walls. All Resolve rolls are considered Demanding (-5)."
+  },
+  {
+    "roll": "2",
+    "name": "Toxic Atmosphere",
+    "description": "Not only is the atmosphere unbreathable to humans (as usual), but it’s also corrosive when in direct contact with skin. All characters not wearing a Level B hazmat or better suffer D20 damage every round."
+  },
+  {
+    "roll": "3",
+    "name": "Collapsing",
+    "description": "Something worse than the simple passage of time has caused this Site to begin slowly falling apart. Each Time Track reset, a random character must pass a DEX check or take 3D10 damage as they are struck by falling debris."
+  },
+  {
+    "roll": "4",
+    "name": "Overrun",
+    "description": "There’s nothing but hungry shadows with vicious teeth here. Each Time Track reset, the crew is ambushed by a random Known Threat."
+  },
+  {
+    "roll": "5",
+    "name": "Lockdown",
+    "description": "The Site’s security systems are still operational and have identified the crew as intruders. Each Time Track reset, a random character triggers a trap and must pass a DEX check or take 3D10 damage."
+  },
+  {
+    "roll": "6",
+    "name": "Extreme Temperature",
+    "description": "Either incredibly hot or cold. All characters not wearing a Level B hazmat or better suffer D10 damage every round."
+  },
+  {
+    "roll": "7",
+    "name": "Distorted",
+    "description": "The laws of physics don’t seem to work properly here. Each Time Track reset, a random character must pass a DEX check or be teleported to a random Area within the Site."
+  },
+  {
+    "roll": "8",
+    "name": "Vertical",
+    "description": "The Site is built vertically, either upwards or downwards. Each Time Track reset, a random character must pass a DEX check or fall, taking 3D10 damage."
+  }
+]

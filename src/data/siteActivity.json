@@ -1,0 +1,26 @@
+[
+  {
+    "roll": "1",
+    "name": "Deathly Quiet > One possible encounter"
+  },
+  {
+    "roll": "2",
+    "name": "Quiet > Two possible encounters"
+  },
+  {
+    "roll": "3",
+    "name": "Fairly Quiet > Three possible encounters"
+  },
+  {
+    "roll": "4",
+    "name": "Active > Four possible encounters"
+  },
+  {
+    "roll": "5",
+    "name": "Busy > Five possible encounters"
+  },
+  {
+    "roll": "6",
+    "name": "Extreme > Six possible encounters"
+  }
+]

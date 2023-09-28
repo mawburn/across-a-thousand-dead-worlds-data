@@ -1,0 +1,22 @@
+[
+  {
+    "roll": "1",
+    "name": "Small",
+    "description": "D4+10 Resources, D4+10 Xenoanthropological finds, up to 4 unique encounters"
+  },
+  {
+    "roll": "2",
+    "name": "Medium",
+    "description": "D10+20 Resources, D10+20 Xenoanthropological finds, up to 6 unique encounters"
+  },
+  {
+    "roll": "3",
+    "name": "Large",
+    "description": "D20+20 Resources, D20+20 Xenoanthropological finds, up to 8 unique encounters"
+  },
+  {
+    "roll": "4",
+    "name": "Huge",
+    "description": "HUGE SITE: D20+40 Resources, D20+40 Xenoanthropological finds, up to 12 unique encounters"
+  }
+]

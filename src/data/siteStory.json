@@ -1,0 +1,42 @@
+[
+  {
+    "roll": "1",
+    "name": "Overrun by creatures"
+  },
+  {
+    "roll": "2",
+    "name": "Became unstable"
+  },
+  {
+    "roll": "3",
+    "name": "A source of corruption"
+  },
+  {
+    "roll": "4",
+    "name": "Associated with wondrous technology"
+  },
+  {
+    "roll": "5",
+    "name": "Overrun by synthetics"
+  },
+  {
+    "roll": "6",
+    "name": "A powerful item is or was housed within"
+  },
+  {
+    "roll": "7",
+    "name": "Has or had the answer to a big mystery"
+  },
+  {
+    "roll": "8",
+    "name": "The place of a terrible tragedy"
+  },
+  {
+    "roll": "9",
+    "name": "Associated with a terrible power"
+  },
+  {
+    "roll": "10",
+    "name": "Terribly affected by a cosmic event"
+  }
+]

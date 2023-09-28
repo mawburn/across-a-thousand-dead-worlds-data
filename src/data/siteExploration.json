@@ -1,0 +1,47 @@
+[
+  {
+    "roll": "1-2",
+    "name": "Encounter",
+    "description": "The crew runs into something. This is rarely good news."
+  },
+  {
+    "roll": "3",
+    "name": "Resources",
+    "description": "Tools, data crystals, A-Metal cubes—these are the things that make a Site worth exploring."
+  },
+  {
+    "roll": "4",
+    "name": "Xenoanthropological Artifact",
+    "description": "The crew discovers an artifact of significant historical or cultural value."
+  },
+  {
+    "roll": "5",
+    "name": "Hazard Manifestation",
+    "description": "A hazard specific to the Site or its biome manifests itself."
+  },
+  {
+    "roll": "6",
+    "name": "Locked Access Point",
+    "description": "The crew encounters a door or other access point that is locked or otherwise obstructed."
+  },
+  {
+    "roll": "7",
+    "name": "Dread Event",
+    "description": "Something truly terrifying happens, testing the crew's mettle."
+  },
+  {
+    "roll": "8",
+    "name": "Automated Security Measures",
+    "description": "The Site's security systems activate, posing a threat to the crew."
+  },
+  {
+    "roll": "9",
+    "name": "Fixed Event",
+    "description": "A significant event, specific to the Site's story or purpose, occurs."
+  },
+  {
+    "roll": "10",
+    "name": "Random Occurrence",
+    "description": "Something unexpected and not necessarily related to the Site's purpose or story happens."
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "roll": "1-10",
+    "description": "Simple hallway (20% chance of an ambush)"
+  },
+  {
+    "roll": "11",
+    "description": "Stairs going down"
+  },
+  {
+    "roll": "12",
+    "description": "Stairs going up"
+  },
+  {
+    "roll": "13-16",
+    "description": "Grand, wide hallway (20% chance of an ambush)"
+  },
+  {
+    "roll": "17",
+    "description": "Bridge"
+  },
+  {
+    "roll": "18-20",
+    "description": "Areas are directly connected"
+  }
+]
